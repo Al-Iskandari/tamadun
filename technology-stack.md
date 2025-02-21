@@ -1,0 +1,7 @@
+Frontend:
+
+        - React
+
+        - JavaScript
+
+        - CSS
